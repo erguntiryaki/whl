@@ -59,7 +59,6 @@ requests
 rich
 scikit-image
 scikit-learn
-scikit-sparse
 scipy
 setuptools
 shellingham
@@ -88,3 +87,5 @@ wrapt
 yacs
 zipp
 zstandard
+torchio
+yacs
